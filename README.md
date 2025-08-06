@@ -1,4 +1,4 @@
-[MCGabriel2614.txt](https://github.com/user-attachments/files/21634100/README1.txt)
+[README.txt](https://github.com/user-attachments/files/21634100/README1.txt)
 # 👋 Hi, I'm Mamadou Gabriel Ceesay
 
 🎯 **Aspiring Machine Learning & Generative AI Engineer**  
