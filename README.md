@@ -1,16 +1,45 @@
-## Hi there 👋
+[README1.txt](https://github.com/user-attachments/files/21634100/README1.txt)
+# 👋 Hi, I'm Mamadou Gabriel Ceesay
 
-<!--
-**MCGabriel2614/MCGabriel2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Machine Learning & Generative AI Engineer**  
+💻 Currently building projects with **TensorFlow**, **PyTorch**, **Hugging Face**, and **LangChain**  
+📚 Exploring **CNNs**, **LLMs (e.g., GPT-2)**, **Stable Diffusion**, and **MLOps**  
+🌱 Always learning — and always excited to build things that matter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Working On
+
+- 🧾 **Digit classification** using Convolutional Neural Networks (CNN)
+- ✍🏽 **Fine-tuning GPT-2** for text generation
+- 🖼️ **Image generation** with Stable Diffusion
+- 🔧 Tools: `Python`, `TensorFlow`, `PyTorch`, `Hugging Face`, `LangChain`, `Google Colab`
+
+---
+
+## 📌 Goals
+
+- ✅ Launching my first AI portfolio on GitHub
+- 🚀 Contributing to open-source ML/GenAI projects
+- 💼 Seeking **internships**, **entry-level roles**, or **freelance opportunities** in AI
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 LinkedIn: www.linkedin.com/in/mamadou-ceesay-961aa350  
+- 💌 Email: m.cees4y8@btinternet.com  
+- 🌐 Portfolio 
+
+---
+
+## 🧾 Certifications
+
+- ✅ CCNA Certified  
+- ✅ AWS Cloud Practitioner Certified  
+- 🎓 ML & GenAI Certification (In Progress)
+
+---
+
+Thanks for visiting my GitHub! ⭐️  
+Let’s build something amazing.
